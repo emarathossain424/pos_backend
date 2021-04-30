@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c3ca19e-b10f-465f-bf97-5ea4a41792cc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/firebase/php-jwt" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1rZUfWeBEsv5qihV2hfZCD0pbpK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c3ca19e-b10f-465f-bf97-5ea4a41792cc" name="Default Changelist" comment="" />
+      <created>1619183208626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619183208626</updated>
+      <workItem from="1619183214915" duration="3882000" />
+      <workItem from="1619223663841" duration="9831000" />
+      <workItem from="1619242291493" duration="12370000" />
+      <workItem from="1619345665519" duration="10787000" />
+      <workItem from="1619489127489" duration="29454000" />
+      <workItem from="1619608697589" duration="9161000" />
+      <workItem from="1619674476640" duration="29409000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="89" width="1092" height="681" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1619186621713">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="89" width="1092" height="681" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1619186621713" />
+    <state x="558" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1619316041085">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="558" y="234" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1619316041085" />
+    <state x="252" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1619186057791">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="252" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1600.860@0.0.1600.860" timestamp="1619186057791" />
+    <state x="555" y="245" key="NewPhpClassDialog" timestamp="1619743938782">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="555" y="245" key="NewPhpClassDialog/0.0.1600.860@0.0.1600.860" timestamp="1619743938782" />
+    <state x="634" y="354" key="NewPhpFileDialog" timestamp="1619761017569">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="634" y="354" key="NewPhpFileDialog/0.0.1600.860@0.0.1600.860" timestamp="1619761017569" />
+    <state width="498" height="452" key="SwitcherDM" timestamp="1619781557577">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="498" height="452" key="SwitcherDM/0.0.1600.860@0.0.1600.860" timestamp="1619781557577" />
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1619315084501">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="92" y="92" width="1416" height="676" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1619315084501" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1619489126818">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1619489126818" />
+    <state x="364" y="110" width="988" height="536" key="find.popup" timestamp="1619776434544">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="364" y="110" width="988" height="536" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1619776434544" />
+  </component>
+</project>
